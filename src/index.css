@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+
+
+body{
+  background-color: gray;
+}
+.icn{
+  background-color: rgb(133, 131, 131);
+    cursor:pointer;
+    color: white;
+    padding: 6px;
+    font-size: 40px;
+    border-radius: 30px;
+
+}
+.icn:hover{
+scale: 2;
+color: pink;
+background-color: black;
+transition: all 1.5s 0.2s ;
+}
