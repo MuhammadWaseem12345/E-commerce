@@ -60,7 +60,7 @@ export const HeroImg3 = () => {
                              
                                               <div className="flex  justify-around items-center 2xl:w-64  h-36 xl:w-56 border-2 lg:w-48 md:w-44 sm:w-44 max-sm:w-40 border-solid border-black">
                                                 <div className="mb-5  md:ml-2">
-                                                  <h2>Smart Watches</h2>
+                                                  <h2>Electric kettle</h2>
                                                  <p className="opacity-80 text-xs mt-2 w-16">from USD 19</p>
                                                 </div>
                                                  <img src={awatcch} className="w-16 mt-13"></img>
@@ -93,7 +93,7 @@ export const HeroImg3 = () => {
                              
                                               <div className="flex  justify-around items-center 2xl:w-64  h-36 xl:w-56 border-2 lg:w-48 md:w-44 sm:w-44 max-sm:w-40 border-solid border-black">
                                                 <div className="mb-5  md:ml-2">
-                                                  <h2>Electric kettle</h2>
+                                                  <h2>smart mobile phone</h2>
                                                  <p className="opacity-80 text-xs mt-2 w-16">from USD 19</p>
                                                 </div>
                                                  <img src={elc} className="w-16 mt-13"></img>
