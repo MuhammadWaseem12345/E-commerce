@@ -45,7 +45,7 @@ export const HeroImg4 = () => {
                             <img src={item4}  className="w-52 h-48"/>
                             <div className="ml-5 mt-3">
                              <h1>$10.30</h1>
-                             <h3>T-shirts with multiple <br/> colors , for men</h3>
+                             <h3> Diary</h3>
                             </div>
                         </div>
                 
@@ -53,7 +53,7 @@ export const HeroImg4 = () => {
                             <img src={item5}  className="w-52 h-48"/>
                             <div className="ml-5 mt-3">
                              <h1>$10.30</h1>
-                             <h3>T-shirts with multiple <br/> colors , for men</h3>
+                             <h3> Bag with multiple <br/> colors , for men</h3>
                             </div>
                         </div>
                 
@@ -64,7 +64,7 @@ export const HeroImg4 = () => {
                             <img src={item6}  className="w-52 h-48"/>
                             <div className="ml-5 mt-3">
                              <h1>$10.30</h1>
-                             <h3>T-shirts with multiple <br/> colors , for men</h3>
+                             <h3>pant with multiple <br/> colors , for men</h3>
                             </div>
                         </div>
                 
@@ -72,7 +72,7 @@ export const HeroImg4 = () => {
                             <img src={headphone}  className="w-52 h-48"/>
                             <div className="ml-5 mt-3">
                              <h1>$10.30</h1>
-                             <h3>T-shirts with multiple <br/> colors , for men</h3>
+                             <h3>Headphone</h3>
                             </div>
                         </div>
                 
@@ -80,7 +80,7 @@ export const HeroImg4 = () => {
                             <img src={item5}  className="w-52 h-48"/>
                             <div className="ml-5 mt-3">
                              <h1>$10.30</h1>
-                             <h3>T-shirts with multiple <br/> colors , for men</h3>
+                             <h3> Bag with multiple <br/> colors , for men</h3>
                             </div>
                         </div>
                 
@@ -88,7 +88,7 @@ export const HeroImg4 = () => {
                             <img src={mwatcch}  className="w-52 h-48"/>
                             <div className="ml-5 mt-3">
                              <h1>$10.30</h1>
-                             <h3>T-shirts with multiple <br/> colors , for men</h3>
+                             <h3>Jar</h3>
                             </div>
                         </div>
                 
@@ -96,7 +96,7 @@ export const HeroImg4 = () => {
                             <img src={awatcch}  className="w-52 h-48"/>
                             <div className="ml-5 mt-3">
                              <h1>$10.30</h1>
-                             <h3>T-shirts with multiple <br/> colors , for men</h3>
+                             <h3>Electric Kettle</h3>
                             </div>
                         </div>
                 
